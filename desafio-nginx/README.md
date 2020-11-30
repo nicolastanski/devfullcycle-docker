@@ -1,14 +1,21 @@
 # Nginx / NodeJS
 
-## Executar
+## Como baixar
+```
+git clone https://github.com/nicolastanski/devfullcycle-docker.git
+
+cd devfullcycle-docker/desafio-nginx
+```
+
+## Como executar
 ```
 docker-compose up -d
 ```
 
-## Visualizar Página
+## Como visualizar a página
 [Página Web - http://localhost:8080](http://localhost:8080)
 
-## Remover Containers
+## Como Remover os Containers
 ```
 docker-compose down
 ```
